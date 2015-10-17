@@ -10,6 +10,8 @@
             "homepage": "https://github.com/deepeloper"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable" : true,
     "autoload": {
         "psr-4": {"Deepelopment\\HTTP\\": "src/Deepelopment/HTTP"}
     }
