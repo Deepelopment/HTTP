@@ -1,0 +1,16 @@
+{
+    "name": "deepelopment/http",
+    "type":  "library",
+    "description": "HTTP library",
+    "keywords": ["HTTP"],
+    "license": "Unlicence",
+    "authors": [
+        {
+            "name":     "deepeloper",
+            "homepage": "https://github.com/deepeloper"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Deepelopment\\HTTP\\": "src/Deepelopment/HTTP"}
+    }
+}
